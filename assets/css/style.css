@@ -104,11 +104,11 @@ This files contents are outlined below.
 
 .btn-default:hover {
     color: #fff !important;
-    background: #ffa800 !important;
+    background: #5CC8D7FF !important;
 }
 
 .btn-primary {
-    background: #ffa800 !important;
+    background: #5CC8D7FF !important;
     color: #fff !important;
     border-radius: 5px;
 }
@@ -453,7 +453,6 @@ dt {
     height: 850px;
 }
 .bg_free_img {
-    background-image: url(../images/banner-bg-bottom.png);
     background-repeat: no-repeat;
     background-position: center top;
     -webkit-background-size: cover;
@@ -769,10 +768,10 @@ img {
 }
 
 .c_yellow {
-    color: #ffa800 !important;
+    color: #5CC8D7FF !important;
 }
 .btn_yellow {
-    background: #ffa800 !important;
+    background: #5CC8D7FF !important;
 }
 .contact-map {
     box-shadow: 0px 6px 21px -5px #d3d3d3;
@@ -2212,7 +2211,7 @@ ul {
 .team-content p {
     margin: 15px 0px;
     font-size: 20px;
-    color: #ffa800;
+    color: #5CC8D7FF;
     font-weight: 500;
 }
 
@@ -3003,12 +3002,12 @@ h3.blog-title {
     display: none;
 }
 header i {
-    color: #ffa800;
+    color: #5CC8D7FF;
     font-size: 32px;
     text-align: center;
 }
 header h2 {
-    color: #ffa800;
+    color: #5CC8D7FF;
     font-weight: 500;
     text-align: center;
 }
@@ -3016,7 +3015,7 @@ header h2 {
     text-align: center;
 }
 .data p a {
-    color: #ffa800;
+    color: #5CC8D7FF;
     text-decoration: none;
     text-align: center !important;
 }
@@ -3028,10 +3027,10 @@ header h2 {
     text-align: center;
 }
 .buttons .cookie-button {
-    border: 2px solid #ffa800;
+    border: 2px solid #5CC8D7FF;
     color: #fff;
     padding: 8px 0;
-    background: #ffa800;
+    background: #5CC8D7FF;
     cursor: pointer;
     width: calc(100% / 2 - 10px);
     transition: all 0.2s ease;
@@ -3040,18 +3039,18 @@ header h2 {
 }
 .buttons #acceptBtn:hover {
     background-color: transparent;
-    color: #ffa800;
+    color: #5CC8D7FF;
 }
 #declineBtn {
     background-color: #fff;
-    color: #ffa800;
+    color: #5CC8D7FF;
     border-radius: 0px;
 }
 #declineBtn:hover {
-    background-color: #ffa800;
+    background-color: #5CC8D7FF;
     color: #fff;
 }
 #result {
-    color: #ffa800;
+    color: #5CC8D7FF;
     font-size: 14px;
 }
